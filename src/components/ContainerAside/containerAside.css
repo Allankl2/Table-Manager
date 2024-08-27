@@ -1,0 +1,29 @@
+.container-aside{
+    display:flex;
+    flex-direction: column;
+    text-align:center;
+    background-color:#084D6E;
+    height:100vh;
+    width:20vw;
+    margin:auto;
+    padding: auto;
+}
+.contaner-title-aside{
+    background-color:#DCDCDC;
+    width:50%;
+    margin: 5% auto;
+    height: 6%;
+}
+.input-search-table{
+    width:80%;
+    margin: 0 auto;
+    height: 5vh;
+}
+
+.container-list-table{
+    height: 80vh;
+    background-color:#DCDCDC;
+    width:80%;
+    margin: 5% auto;
+
+}
